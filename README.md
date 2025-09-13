@@ -9,7 +9,7 @@
 ### Tools
   * [Gitlab](https://about.gitlab.com/free-trial/devsecops/?utm_medium=cpc&utm_source=google&utm_campaign=brand_rlsa__global_exact&utm_content=free-trial&&utm_term=gitlab&_bt=656315922370&_bk=gitlab&_bm=e&_bn=g&_bg=148481441276&gad_source=1&gad_campaignid=20029282011&gbraid=0AAAAADcJCbd-qchEgRIutf5jFa0rS0D5j&gclid=Cj0KCQjwrJTGBhCbARIsANFBfgux0AqL82DZ3Mt41QgZ5uGo1r7kp69PclyOojsUQKzQUyIO8BI4iKsaAg7FEALw_wcB), [Trello](https://trello.com/pl/tour) - project management, tracking and reporting bugs
   * [Slack](https://slack.com/) - communication within the team
-  * [Google Drive](https://www.google.com/intl/pl_pl/drive/) - storing data
+  * [Google Drive](https://www.google.com/intl/en/drive/) - storing data
   * [Git](https://git-scm.com/) - for better work in development team and controlling software versions
   * [GitHub](https://github.com/) - supporting Git and preparing my repositories
   * [Xampp](https://www.apachefriends.org/pl/index.html) - for storing and managing SQL databases
